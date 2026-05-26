@@ -1,2 +1,8 @@
-# Greeesysalad
-h
+# Hi
+
+Mechatronics and Biomedical Engineering student at McMaster University :)
+
+**Portfolio:** [tedyao.site](https://tedyao.site)
+
+### Coding with:
+* **Langauges:** Python, TypeScript, Next.js, React, C, C++
